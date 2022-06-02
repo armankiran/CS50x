@@ -1,0 +1,66 @@
+body {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16 px;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline
+}
+
+h1 {
+    color: rgba(165, 42, 42, 0.59);
+    font-weight: bold;
+}
+img {
+    float: left;
+    width: 200px;
+    margin: 10px;
+}
+
+td {
+    text-align: left;
+}
+
+.map-img {
+    width: 500px;
+
+}
+
+p {
+    text-align: justify;
+}
+
+.p-beginning {
+    font-weight: bold;
+}
+
+#newsletter {
+    float: left;
+}
+
+form {
+    float: left;
+}
+
+label {
+    display: inline-block;
+    width: 210px;
+    text-align: right;
+    margin: 5px;
+}
+
+select {
+    height: 30px;
+}
+
+button {
+    background-color: transparent;
+    margin: 2px;
+    margin-left: 10px;
+}
